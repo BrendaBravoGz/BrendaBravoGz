@@ -1,4 +1,5 @@
 ### Hi there 👋
+![Brenda Bravo](https://user-images.githubusercontent.com/95329519/149571915-313e518b-52d6-440f-96c0-88e723eb0adf.png)
 
 <!--
 **BrendaBravoGz/BrendaBravoGz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
