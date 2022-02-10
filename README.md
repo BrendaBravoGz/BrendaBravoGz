@@ -10,6 +10,7 @@
 ### ⚔Skills⚔
 > 💻 HTML5 <br>
 > 💻 CSS3 <br>
+> 💻 JavaScript <br>
 > 💻 Python <br>
 > 💻 PHP <br>
 > 💻 R Studio <br>
