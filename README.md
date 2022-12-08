@@ -7,20 +7,18 @@
 > 👩‍🎓 Ingeniera tecnología de software. <br>
 > 👩‍🎓 Técnica en TIC's con enfoque en programación web.
 
-### ⚔Skills⚔
-> 💻 HTML5 <br>
-> 💻 CSS3 <br>
-> 💻 JavaScript <br>
-> 💻 Python <br>
-> 💻 PHP <br>
-> 💻 R Studio <br>
-> 💻 JAVA <br>
-> 💻 C <br>
-> 💻 FIGMA <br>
-> 💻 Firebase <br>
-> 💻 MySQL <br>
-<div style="display:flex; ">
-<a href="https://brendabravogz.netlify.app/"> <img style ="width:200px;height:auto; " src="https://user-images.githubusercontent.com/95329519/149224001-b1f0bac1-9120-4814-83a9-22e3c9cd5a75.png"></a>
-<a href="https://www.behance.net/BrendaBravoGz"> <img style ="width:200px;height:auto; " src="https://user-images.githubusercontent.com/95329519/149224383-095599fa-cdcc-4da2-acce-3f399ec369e7.png"></a>
-<a href="https://www.linkedin.com/in/brendabravogz/"> <img style ="width:200px;height:auto; " src="https://user-images.githubusercontent.com/95329519/149222857-f5a7318c-f761-4a4d-87bd-f438d710b23e.png"></a>
-</div>
+
+## 🌐 Socials:
+[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/BrendaBravoGz) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/BrendaBravoGz) 
+
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=BrendaBravoGz&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=BrendaBravoGz&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=BrendaBravoGz&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=BrendaBravoGz&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
