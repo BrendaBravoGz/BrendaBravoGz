@@ -1,7 +1,7 @@
 # ¡Hola! 🤓
 ![Brenda Bravo](https://user-images.githubusercontent.com/95329519/149571915-313e518b-52d6-440f-96c0-88e723eb0adf.png)
->Mi nombre es Brenda Bravo, <br>
-> Soy una persona creativa, comprometida con el trabajo y habilidades de trabajo en equipo, tengo una gran pasión por las nuevas tecnologías y el desarrollo de estas, así como estar en constante actualización para tener un mejor desarrollo profesional. 
+Mi nombre es Brenda Bravo, <br>
+Soy una persona creativa, comprometida con el trabajo y habilidades de trabajo en equipo, tengo una gran pasión por las nuevas tecnologías y el desarrollo de estas, así como estar en constante actualización para tener un mejor desarrollo profesional. 
 
 # 📓Educación📓
 > 👩‍🎓 Ingeniera tecnología de software. <br>
